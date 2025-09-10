@@ -5,13 +5,13 @@
 
 ## Hi, Devs! 👋 | Oi, Devs!
 
-🎮 Gamer & 👨‍💻 Developer in the making  
-I’m 21 years old, originally from Araçatuba, São Paulo. Passionate about programming and gaming, I’m a Systems Analysis and Development student and an aspiring Full Stack Developer, focused on **Python** and **C#**. I enjoy exploring code and tackling challenges, both in games and programming.  
+🎮 Gamer & 👨‍💻 Developer in the making
+My name is Kenjhon Leandro Santana dos Santos, I’m 21 years old and originally from Araçatuba, São Paulo. Passionate about programming and games, I’m a Systems Analysis and Development student and an aspiring Full Stack Developer, focused on Python and C#. Since childhood, I’ve been fascinated by games and the world of technology, and that curiosity has always driven me to keep learning—expanding what I already know and exploring new things. I enjoy facing challenges, whether in code or in gaming.
 
 ---
 
-🎮 Gamer & 👨‍💻 Desenvolvedor em formação  
-Tenho 21 anos, sou natural de Araçatuba, São Paulo. Apaixonado por programação e jogos, sou estudante de **Análise e Desenvolvimento de Sistemas** e aspirante a **Desenvolvedor Full Stack**, com foco em **Python** e **C#**. Gosto de explorar códigos e enfrentar desafios, tanto nos jogos quanto na programação.
+🎮 Gamer & 👨‍💻 Desenvolvedor em formação
+Me chamo Kenjhon Leandro Santana dos Santos, tenho 21 anos e sou natural de Araçatuba, São Paulo. Apaixonado por programação e jogos, sou estudante de Análise e Desenvolvimento de Sistemas e aspirante a Desenvolvedor Full Stack, com foco em Python e C#. Desde pequeno sempre fui fascinado por jogos e pelo mundo da tecnologia, e essa curiosidade me motiva a estar sempre aprendendo—seja aprimorando o que já sei ou descobrindo coisas novas. Gosto de enfrentar desafios, tanto nos códigos quanto nos jogos.
 
   🎓 Estudante De Análise e Desenvolvimento de Sistemas 💻 Aspirante a desenvolvedor Full Stack 🚀 Foco Python | C# 
 
